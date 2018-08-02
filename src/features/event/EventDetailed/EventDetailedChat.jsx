@@ -23,7 +23,7 @@ const EventDetailedChat = () => {
                   <Comment.Metadata>
                     <div>Today at 5:42PM</div>
                   </Comment.Metadata>
-                  <Comment.Text>This exercise is being performed improperly. Needs to be fixed ASAP.</Comment.Text>
+                  <Comment.Text>Let's refilm this one ASAP with proper form.</Comment.Text>
                   <Comment.Actions>
                     <Comment.Action>Reply</Comment.Action>
                   </Comment.Actions>
@@ -39,7 +39,7 @@ const EventDetailedChat = () => {
                   </Comment.Metadata>
                   <Comment.Text>
                     <p>
-                      I love this exercise. I add it to absolutely every single person's corrective exercises.
+                      I put this exercise on everybody's corrective programs.
                     </p>
                   </Comment.Text>
                   <Comment.Actions>
@@ -54,7 +54,7 @@ const EventDetailedChat = () => {
                       <Comment.Metadata>
                         <div>Just now</div>
                       </Comment.Metadata>
-                      <Comment.Text>@granticus THIS IS A DISASTER. We've been showing people improper technique this entire time. We need to send an apology message and make an announcement on social media about how sorry we are.</Comment.Text>
+                      <Comment.Text>Is this the correct exercise?</Comment.Text>
                       <Comment.Actions>
                         <Comment.Action>Reply</Comment.Action>
                       </Comment.Actions>
@@ -70,7 +70,7 @@ const EventDetailedChat = () => {
                   <Comment.Metadata>
                     <div>1 year ago</div>
                   </Comment.Metadata>
-                  <Comment.Text>@MikeBarwis can you please review this video?</Comment.Text>
+                  <Comment.Text>Whaddup fam?</Comment.Text>
                   <Comment.Actions>
                     <Comment.Action>Reply</Comment.Action>
                   </Comment.Actions>

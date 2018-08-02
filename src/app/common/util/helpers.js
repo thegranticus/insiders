@@ -18,7 +18,7 @@ export const createNewEvent = (user, photoURL, event) => {
             [user.uid]: {
                 going: true,
                 joinDate: Date.now(),
-                photURL: photoURL || '/assets/user.png',
+                photoURL: photoURL || '/assets/user.png',
                 displayName: user.displayName,
                 host: true
             }
